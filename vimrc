@@ -214,12 +214,6 @@ let g:fencview_autodetect=1
 " :LoadTemplate       根据文件后缀自动加载模板
 let g:template_path='/home/ruchee/.vim/template/'
 
-" :AuthorInfoDetect   自动添加作者、时间等信息，本质是NERD_commenter && authorinfo的结合
-let g:vimrc_author='Tommy'
-let g:vimrc_email='ymingming@163.com'
-let g:vimrc_homepage='https://github.com/ymm000596'
-
-
 " Ctrl + H            将光标移到行首
 imap <c-h> <ESC>I
 
